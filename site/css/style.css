@@ -130,7 +130,7 @@ main {
     background: #f4f4f4;
     padding: 1.5rem;
     border-radius: 8px;
-    width: calc(25% - 1.125rem);
+    width: calc(100% - 1.125rem);
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
